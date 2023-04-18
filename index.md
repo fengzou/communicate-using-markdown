@@ -19,3 +19,5 @@
 
 <sup>This is a superscript text</sup>
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
